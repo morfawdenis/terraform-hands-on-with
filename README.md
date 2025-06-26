@@ -1,6 +1,6 @@
 # terraform-hands-on-with-AWS
 
-Create an AWS account.
+Create an 1AWS account.
 Create an IAM user and grant required permissions(e.g. AWSAdminAccess - not recommended).
 Go to the user → security credentials.
 Generate new Access & Secrets Keys for this user.
